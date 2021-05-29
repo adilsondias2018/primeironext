@@ -1,6 +1,6 @@
 import { Button } from "./style";
 
-const Button = () => {
+const Btn = () => {
   return (
     <div>
       <Button />;
@@ -8,4 +8,4 @@ const Button = () => {
   );
 };
 
-export default Button;
+export default Btn;

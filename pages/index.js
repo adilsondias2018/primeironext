@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Button from "../components/Button";
+import Btn from "../components/Button";
 
 function Home() {
   const [counter, setCounter] = useState(1);
@@ -17,7 +17,7 @@ function Home() {
       </button>
 
       <div>açlsdkjf alksdjfçalksdjf açlksdjfç aslkdfjaçlsdjfaçlkj</div>
-      <Button>Teste Botão</Button>
+      <Btn>Botão</Btn>
 
       <ul>
         <li>
