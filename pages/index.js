@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Button from "../components/Button";
 
 function Home() {
   const [counter, setCounter] = useState(1);
@@ -16,13 +17,14 @@ function Home() {
       </button>
 
       <div>açlsdkjf alksdjfçalksdjf açlksdjfç aslkdfjaçlsdjfaçlkj</div>
+      <Button>Teste Botão</Button>
 
       <ul>
         <li>
           <a href="/sobre">sobre</a>
         </li>
         <li>
-          <a href="/contato">sobre</a>
+          <a href="/contato">Contato</a>
         </li>
       </ul>
     </div>
