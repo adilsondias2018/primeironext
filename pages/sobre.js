@@ -22,4 +22,4 @@ function sobre() {
   );
 }
 
-export default Home;
+export default sobre;
