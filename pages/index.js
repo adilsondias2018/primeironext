@@ -14,6 +14,8 @@ function Home() {
       <button type="button" onClick={contador}>
         +
       </button>
+
+      <div>açlsdkjf alksdjfçalksdjf açlksdjfç aslkdfjaçlsdjfaçlkj</div>
     </div>
   );
 }
