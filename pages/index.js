@@ -16,6 +16,15 @@ function Home() {
       </button>
 
       <div>açlsdkjf alksdjfçalksdjf açlksdjfç aslkdfjaçlsdjfaçlkj</div>
+
+      <ul>
+        <li>
+          <a href="/sobre">sobre</a>
+        </li>
+        <li>
+          <a href="/contato">sobre</a>
+        </li>
+      </ul>
     </div>
   );
 }

@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function sobre() {
+function Sobre() {
   const [counter, setCounter] = useState(1);
 
   function contador() {
@@ -12,7 +12,7 @@ function sobre() {
       <h1>Sobre</h1>
       {counter}
       <button type="button" onClick={contador}>
-        +
+        <h1>+</h1>
       </button>
 
       <div>Sobre askljd fçalksjd flasdjfçlasdkj</div>
@@ -22,4 +22,4 @@ function sobre() {
   );
 }
 
-export default sobre;
+export default Sobre;
