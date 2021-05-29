@@ -9,7 +9,7 @@ function Home() {
 
   return (
     <div>
-      <h1>Hello World!!</h1>
+      <h1>Pagina Inicial</h1>
       {counter}
       <button type="button" onClick={contador}>
         +
